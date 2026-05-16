@@ -53,6 +53,7 @@ This project implements a **Safety Instrumented System (SIS)** designed to prote
 The system follows a strict **Input -> Process -> Output** pipeline designed for safety-critical response.
 
 ### Function Block Diagram (FBD)
+
 ```mermaid
 graph LR
     A["Pressure Sensor<br>(GPIO 1)"] --> B["Averaging Filter<br>(1000 Samples)"]
@@ -67,6 +68,8 @@ graph LR
     style A fill:#f9f,stroke:#333
     style G fill:#f66,stroke:#333
     style H fill:#f66,stroke:#333
+```
+
 ✨ Core Features
 🦀 Memory-Safe Firmware
 Built with no_std Rust, eliminating the risk of garbage collection pauses or memory leaks.
