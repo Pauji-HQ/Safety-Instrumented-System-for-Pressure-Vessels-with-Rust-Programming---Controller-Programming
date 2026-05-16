@@ -88,7 +88,7 @@ The following graphs demonstrate the system's performance during a pressure ramp
 | Component | Technology |
 |---|---|
 | **Controller** | ESP32-S3 (Xtensa LX7) |
-| **Programming Language** | Rust (Edition 2021) |
+| **Programming Language** | Rust (Edition 2024) |
 | **Hardware Abstraction** | `esp-hal` / `esp-println` |
 | **Development Tool** | `espflash` |
 | **Calibration Logic** | `AdcCalCurve` (ADC1) |
