@@ -75,7 +75,7 @@ The following graphs demonstrate the system's performance during a pressure ramp
 
 ### Detailed Trigger Timing
 <p align="center">
-  <img src="Detailed_Graph._png" alt="Detailed Response" width="900px">
+  <img src="Detailed_Graph.png" alt="Detailed Response" width="900px">
   <br>
   <em>Observe the real-time interaction between Pressure levels and Alarm Logic triggers.</em>
 </p>
