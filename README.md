@@ -146,6 +146,5 @@ cargo run --release
 **Institut Teknologi Sepuluh Nopember (ITS)**
 
 </div>
-```
 
 ---
