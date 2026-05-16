@@ -23,8 +23,8 @@ A high-reliability safety system for pressure vessel monitoring developed using 
 
 | Name | Student ID |
 |---|---|
-| Ahmad Fauzi Abdul Razzaq | 2042241017 |
 | Ilham Zain Muttaqin | 2042241003 |
+| Ahmad Fauzi Abdul Razzaq | 2042241017 |
 
 **Department of Instrumentation Engineering**  
 Institut Teknologi Sepuluh Nopember (ITS)
