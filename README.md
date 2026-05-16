@@ -110,35 +110,42 @@ sis_pressure_vessels/
 ---
 
 # 🚀 Build & Flash
+
 ### Prerequisites
-Install the Rust toolchain and espflash utility:
-code
-```Bash
+Install the Rust toolchain and `espflash` utility:
+
+```bash
 cargo install espflash
 ```
+
 ### Execution
 Run the following command to compile and flash the firmware to your ESP32-S3:
-code
-```Bash
+
+```bash
 cargo run --release
 ```
 
+---
+
 # 📊 Logic Parameters
-| Parameter	| Value |	Description
+
+| Parameter | Value | Description |
 |---|---|---|
-| Sampling Rate |	1000 samples/cycle	| High-frequency noise reduction
-| Scaling Equation	|  P=3.0×(V−0.5) | Voltage to Bar conversion
-| Warning Threshold	| 4.0 Bar |	Preliminary LED Alert
-| Trip Threshold	| 5.0 Bar	| Critical SIS Activation
-| Fail-Safe Mode	| Latched |	Manual Operator Reset Required
+| **Sampling Rate** | 1000 samples/cycle | High-frequency noise reduction |
+| **Scaling Equation**| $P = 3.0 \times (V - 0.5)$ | Voltage to Bar conversion |
+| **Warning Threshold**| 4.0 Bar | Preliminary LED Alert |
+| **Trip Threshold** | 5.0 Bar | Critical SIS Activation |
+| **Fail-Safe Mode** | Latched | Manual Operator Reset Required |
 
 ---
 
 <div align="center">
-  
-### Developed for the Controller-Programming Course
-  
-Department of Instrumentation Engineering
-Institut Teknologi Sepuluh Nopember (ITS)
+
+### Developed for the Controller Programming Course
+**Department of Instrumentation Engineering**  
+**Institut Teknologi Sepuluh Nopember (ITS)**
 
 </div>
+```
+
+---
