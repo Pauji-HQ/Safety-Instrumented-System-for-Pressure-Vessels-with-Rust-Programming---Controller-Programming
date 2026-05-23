@@ -43,6 +43,15 @@ This project implements a **Safety Instrumented System (SIS)** designed to prote
 
 ---
 
+<p align="center">
+  <video src="Video%20Demo.mp4" controls="controls" style="max-width: 100%;">
+  </video>
+  <br>
+  <em>Video Demonstration: SIS Response & Solenoid Trip Test</em>
+</p>
+
+---
+
 # 🏗️ System Logic & Architecture
 
 The system follows a strict **Input -> Process -> Output** pipeline designed for safety-critical response.
