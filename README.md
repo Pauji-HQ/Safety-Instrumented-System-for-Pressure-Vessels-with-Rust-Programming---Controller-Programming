@@ -43,10 +43,10 @@ This project implements a **Safety Instrumented System (SIS)** designed to prote
 
 ---
 
-<p align="center">
-   <video src="https://github.com/Pauji-HQ/Safety-Instrumented-System-for-Pressure-Vessels-with-Rust-Programming---Controller-Programming/raw/main/Video%20Demo.mp4" controls="controls" style="max-width: 100%;">
-  </video>
-  ![](Video%20Demo.mp4)
+<p align="center">   
+
+https://github.com/user-attachments/assets/3e6a46eb-c28b-4f3c-859d-71bb84119d9e
+
   <br>
   <em>Video Demonstration: SIS Response & Solenoid Trip Test</em>
 </p>
