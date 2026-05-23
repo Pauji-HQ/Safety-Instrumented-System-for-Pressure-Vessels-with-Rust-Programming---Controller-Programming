@@ -60,6 +60,13 @@ The system follows a strict **Input -> Process -> Output** pipeline designed for
   <img src="Function Block Diagram.png" alt="Function Block Diagram" width="800px">
 </p>
 
+The system follows a strict **Input -> Process -> Output** pipeline designed for safety-critical response.
+
+### Flowchart
+<p align="center">
+  <img src="Flowchart.png" alt="Flowchart" width="800px">
+</p>
+
 ---
 
 # ✨ Main Features
