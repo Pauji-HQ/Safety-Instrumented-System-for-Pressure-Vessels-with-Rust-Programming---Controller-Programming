@@ -43,12 +43,11 @@ This project implements a **Safety Instrumented System (SIS)** designed to prote
 
 ---
   
-https://github.com/user-attachments/assets/3e6a46eb-c28b-4f3c-859d-71bb84119d9e
-
-<p align="center">     
+<div align="center">
+  <video src="https://github.com/user-attachments/assets/3e6a46eb-c28b-4f3c-859d-71bb84119d9e" width="100%"></video>
   <br>
   <em>Video Demonstration: SIS Response & Solenoid Trip Test</em>
-</p>
+</div>
 
 ---
 
